@@ -11,6 +11,8 @@ function Start() {
       <Link to='/carousel2'>Slider</Link>
       <br/>
       <Link to='/modal'>Modal</Link>
+      <br/>
+      <Link to='/skeleton'>Skeleton</Link>
     </>
 
   )
